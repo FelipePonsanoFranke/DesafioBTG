@@ -2,7 +2,7 @@
 
 Esta aplicação foi desenvolvida como um desafio de programação para o processo seletivo do banco BTG
 
-Um vídeo mostrando o código e o uso da aplicação está disponível em https://youtu.be/WAmU8vjPtEg
+Um vídeo mostrando o código e o uso da aplicação está disponível no [youtube](https://youtu.be/9YkxTrF74Xo)
 
 *Desafio*: Elaborar uma solução simples onde duas aplicações se comuniquem por meio de filas (Kafka, Rabbit, mqqt, …).
 
