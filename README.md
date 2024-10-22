@@ -1,10 +1,13 @@
 # Desafio de programação
 
 Esta aplicação foi desenvolvida como um desafio de programação para o processo seletivo do banco BTG
+
 Um vídeo mostrando o código e o uso da aplicação está disponível em https://youtu.be/WAmU8vjPtEg
 
 *Desafio*: Elaborar uma solução simples onde duas aplicações se comuniquem por meio de filas (Kafka, Rabbit, mqqt, …).
+
 A aplicação 1 é um servidor http que recebe requests rest e encaminha eles para a aplicação 2.
+
 A aplicação 2 é um console application que recebe os requests da aplicação 1 e devolve a resposta para ela.
 
 *Premissas*:
@@ -16,10 +19,13 @@ A aplicação 1 deve segurar o request http até ter a resposta da aplicação 2
 ## Rabbit MQ
 
 Para utilização dessa aplicação, é necessário possuir um servidor do RabbitMQ. Recomendo a criação de um container com o aplicativo por simplicidade.
+
 A forma mais fácil de descobri de baixar e gerenciar containeres é por meio do *Docker Desktop*, que pode ser adiquirido aqui: https://www.docker.com/products/docker-desktop/
+
 Com seu docker desktop instalado, reinicie seu computador (para atualizar variáveis de path) e execute
   `docker run -d --hostname rmq --name rabbit-server -p 8081:15672 -p 5672:5672 rabbitmq:4-management`
 em um terminal no seu computador. Isso vai automaticamente baixar a imagem correta e mapear as portas do servidor de mensageria.
+
 Também é possível inicializar um container com rabbitMQ diretamente pelo Docker Desktop. Recomendo que seja utilizadoa uma imagem de "management" do rabbitMQ para podermos ver o que está acontecendo no servidor.
 
 ## Visual Studio
