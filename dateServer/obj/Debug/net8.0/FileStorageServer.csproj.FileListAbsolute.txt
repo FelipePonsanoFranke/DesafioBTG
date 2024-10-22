@@ -1,0 +1,17 @@
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\FileStorageServer.exe
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\FileStorageServer.deps.json
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\FileStorageServer.runtimeconfig.json
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\FileStorageServer.dll
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\FileStorageServer.pdb
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.AssemblyInfo.cs
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStor.C5BE4F9C.Up2Date
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.dll
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\refint\FileStorageServer.dll
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.pdb
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\FileStorageServer.genruntimeconfig.cache
+C:\Users\felip\source\repos\WhatTimeIsItRightNow\FileStorageServer\obj\Debug\net8.0\ref\FileStorageServer.dll
