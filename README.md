@@ -1,4 +1,4 @@
-#Desafio de programação
+# Desafio de programação
 
 Esta aplicação foi desenvolvida como um desafio de programação para o processo seletivo do banco BTG
 Um vídeo mostrando o código e o uso da aplicação está disponível em https://youtu.be/WAmU8vjPtEg
@@ -11,7 +11,7 @@ A aplicação 2 é um console application que recebe os requests da aplicação 
 A aplicação 1 deve segurar o request http até ter a resposta da aplicação 2 para devolver a resposta para o cliente http.
 
 
-#Instalação e preparo do ambiente
+# Instalação e preparo do ambiente
 
 ## Rabbit MQ
 
